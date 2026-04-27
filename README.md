@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=LEONARDO%20VARGAS&fontColor=007ACC&fontSize=70&desc=FULLSTACK%20ENGINEER%20|%20SYSTEMS%20ARCHITECT&descAlign=68" />
-</div>
+
 
 <br>
 
