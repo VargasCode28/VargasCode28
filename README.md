@@ -59,7 +59,3 @@ My work focuses on transforming complex requirements into robust and efficient s
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=007ACC&text_color=ffffff&icon_color=007ACC&hide_border=true" />
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=35&section=footer" />
-</div>
