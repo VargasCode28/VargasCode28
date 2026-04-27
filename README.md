@@ -14,27 +14,27 @@ My work focuses on transforming complex requirements into robust and efficient s
 
 # Skills
 
-## BackEnd Frameworks 📦
+## BackEnd Frameworks 
 
 | [<img src="https://skillicons.dev/icons?i=nodejs" width="70">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="70">](https://expressjs.com/) |
 | :---: | :---: |
 
-## FrontEnd Frameworks 📦
+## FrontEnd Frameworks 
 
 | [<img src="https://skillicons.dev/icons?i=vue" width="55">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="55">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="55">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="55">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="55">](https://www.typescriptlang.org/) |
 | :---: | :---: | :---: | :---: | :---: |
 
-## Programming Languages 💻
+## Programming Languages 
 
 | [<img src="https://skillicons.dev/icons?i=js" width="65">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | :---: |
 
-## Markup & Styling 🎨
+## Markup & Styling 
 
 | [<img src="https://skillicons.dev/icons?i=html" width="55">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://skillicons.dev/icons?i=css" width="55">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | :---: | :---: |
 
-## Databases 💾
+## Databases 
 
 | [<img src="https://skillicons.dev/icons?i=mysql" width="65">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="65">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="65">](https://firebase.google.com/) |
 | :---: | :---: | :---: |
