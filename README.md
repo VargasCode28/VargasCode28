@@ -36,7 +36,7 @@ My work focuses on transforming complex requirements into robust and efficient s
 
 ## Databases 
 
-| [<img src="https://skillicons.dev/icons?i=mysql" width="45">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="65">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="45">](https://firebase.google.com/) |
+| [<img src="https://skillicons.dev/icons?i=mysql" width="45">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="45">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="45">](https://firebase.google.com/) |
 | :---: | :---: | :---: |
 
 ## Tools & Infrastructure 🛠️
