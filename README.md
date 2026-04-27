@@ -19,13 +19,8 @@ My work focuses on transforming complex requirements into robust and efficient s
 | [<img src="https://skillicons.dev/icons?i=nodejs" width="45">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="45">](https://expressjs.com/) |
 | :---: | :---: |
 
+
 ## FrontEnd Frameworks 
-## BackEnd Frameworks 
-
-| [<img src="https://skillicons.dev/icons?i=nodejs" width="45">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="45">](https://expressjs.com/) |
-| :---: | :---: |
-
-**✔ Experience in building and consuming RESTful APIs (CRUD, authentication, middleware, routing, and integration with databases).**
 | [<img src="https://skillicons.dev/icons?i=vue" width="45">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="45">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="45">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="45">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="45">](https://www.typescriptlang.org/) |
 | :---: | :---: | :---: | :---: | :---: |
 
