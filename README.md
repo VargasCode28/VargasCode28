@@ -21,22 +21,22 @@ My work focuses on transforming complex requirements into robust and efficient s
 
 ## FrontEnd Frameworks 
 
-| [<img src="https://skillicons.dev/icons?i=vue" width="55">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="55">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="55">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="55">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="55">](https://www.typescriptlang.org/) |
+| [<img src="https://skillicons.dev/icons?i=vue" width="45">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="45">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="45">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="45">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="45">](https://www.typescriptlang.org/) |
 | :---: | :---: | :---: | :---: | :---: |
 
 ## Programming Languages 
 
-| [<img src="https://skillicons.dev/icons?i=js" width="65">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| [<img src="https://skillicons.dev/icons?i=js" width="45">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | :---: |
 
 ## Markup & Styling 
 
-| [<img src="https://skillicons.dev/icons?i=html" width="55">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://skillicons.dev/icons?i=css" width="55">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| [<img src="https://skillicons.dev/icons?i=html" width="45">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://skillicons.dev/icons?i=css" width="45">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | :---: | :---: |
 
 ## Databases 
 
-| [<img src="https://skillicons.dev/icons?i=mysql" width="45">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="65">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="65">](https://firebase.google.com/) |
+| [<img src="https://skillicons.dev/icons?i=mysql" width="45">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="65">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="45">](https://firebase.google.com/) |
 | :---: | :---: | :---: |
 
 ## Tools & Infrastructure 🛠️
