@@ -7,19 +7,23 @@
 
 # Hola, Bienvenido a mi GitHub 👋
 
-Soy un apasionado por la **arquitectura de software** y la creación de soluciones digitales escalables. Mi enfoque combina la precisión técnica del **Backend** con interfaces de usuario desarrolladas bajo estándares de **UI/UX profesional**.
+**Soy un desarrollador Fullstack** apasionado por la arquitectura de software y la creación de soluciones digitales escalables. Mi enfoque combina la precisión técnica del Backend con interfaces de usuario profesionales.
 
-I am also looking to contribute to open-source projects to improve my skills and also work on interesting projects that will enhance my skills listed in the Skills section.
+### 🤝 Siempre dispuesto a ayudar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-@LeonardoVargas-007ACC?style=flat&logo=linkedin)](mailto:lv9334889@gmail.com)
-[![Email](https://img.shields.io/badge/Email-lv9334889@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lv9334889@gmail.com)
+---
+
+## 👤 Sobre Mí (ES)
+Mi trabajo se centra en transformar requerimientos complejos en sistemas robustos y eficientes. Me especializo en el ecosistema de JavaScript, aplicando estándares de **UI/UX minimalista** y optimización de bases de datos.
+
+📬 **Contacto:** [lv9334889@gmail.com](mailto:lv9334889@gmail.com)
 
 # Skills
 
 ## Frameworks BackEnd 📦
 
-| [<img src="https://skillicons.dev/icons?i=nodejs" width="70">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="70">](https://expressjs.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="70">](https://firebase.google.com/) |
-| :---: | :---: | :---: |
+| [<img src="https://skillicons.dev/icons?i=nodejs" width="70">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="70">](https://expressjs.com/) |
+| :---: | :---: |
 
 ## Frameworks FrontEnd 📦
 
@@ -38,21 +42,19 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 ## Databases 💾
 
-| [<img src="https://skillicons.dev/icons?i=mysql" width="60">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="60">](https://www.mongodb.com/) |
-| :---: | :---: |
+| [<img src="https://skillicons.dev/icons?i=mysql" width="60">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="60">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="60">](https://firebase.google.com/) |
+| :---: | :---: | :---: |
 
-## Tools & other technologies 🛠️
+## Tools & Infrastructure 🛠️
 
 | [<img src="https://skillicons.dev/icons?i=git" width="45">](https://git-scm.com/) | [<img src="https://skillicons.dev/icons?i=docker" width="45">](https://www.docker.com/) | [<img src="https://skillicons.dev/icons?i=githubactions" width="45">](https://github.com/features/actions) | [<img src="https://skillicons.dev/icons?i=figma" width="45">](https://www.figma.com/) | [<img src="https://skillicons.dev/icons?i=postman" width="45">](https://www.postman.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 
 # Facts
 
-- 🔭 **Actualmente:** Desarrollando sistemas de gestión y flujo de datos con arquitecturas relacionales.
+- 🔭 **Actualmente:** Desarrollando sistemas de gestión con arquitecturas relacionales complejas.
 - 🌱 **Aprendiendo:** Optimizando despliegues con Docker y flujos de CI/CD.
-- 👯 **Colaboración:** Disponible para proyectos de código abierto interesantes.
-- 💬 **Pregúntame sobre:** UI/UX minimalista, Node.js y lógica de bases de datos.
-- 📫 **Contacto:** [lv9334889@gmail.com](mailto:lv9334889@gmail.com)
+- 👯 **Colaboración:** Disponible para proyectos de código abierto.
 - ⚡ **Dato curioso:** Me enfoco en la lectura técnica constante para mejorar la calidad de mi código.
 
 ---
@@ -61,11 +63,16 @@ I am also looking to contribute to open-source projects to improve my skills and
 
 # Hi there, Welcome to my Github 👋
 
-I am a Fullstack Developer passionate about **software architecture** and building scalable digital solutions. My approach combines **Backend** technical precision with user interfaces developed under **professional UI/UX** standards.
+**I am a Fullstack Developer** passionate about software architecture and building scalable digital solutions. My approach combines Backend technical precision with professional UI/UX standards.
 
-### 🤝 Siempre dispuesto a ayudar | Always happy to help
-### 🤗 Gracias | Thank You
+### 🤝 Always happy to help
+
+## 👤 About Me (EN)
+Fullstack Developer with an analytical mindset. Specialized in transforming complex requirements into intuitive interfaces and robust data architectures.
+
+---
 
 <div align="center">
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=35&section=footer" />
 </div>
