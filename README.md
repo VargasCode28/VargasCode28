@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=LEONARDO%20VARGAS&fontColor=007ACC&fontSize=75&desc=FULLSTACK%20ENGINEER%20|%20SYSTEMS%20ARCHITECT&descAlign=68&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -13,7 +12,7 @@
 ---
 
 ## 👤 Sobre Mí (ES)
-Soy un apasionado por la **arquitectura de software** y la creación de soluciones digitales escalables. Mi enfoque combina la precisión técnica del **Backend** con interfaces de usuario inmersivas desarrolladas bajo estándares de **UX/UI minimalista**.
+Soy un apasionado por la **arquitectura de software** y la creación de soluciones digitales escalables. Mi enfoque combina la precisión técnica del **Backend** con interfaces de usuario desarrolladas bajo estándares de **UI/UX profesional**.
 
 ---
 
@@ -30,9 +29,14 @@ Soy un apasionado por la **arquitectura de software** y la creación de solucion
 | <img src="https://skillicons.dev/icons?i=vue" width="55"> | <img src="https://skillicons.dev/icons?i=nuxt" width="55"> | <img src="https://skillicons.dev/icons?i=react" width="55"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="55"> |
 
 ### Programming Languages 💻
+| |
+| :---: |
+| <img src="https://skillicons.dev/icons?i=js" width="55"> |
+
+### Markup & Styling 🎨
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js" width="55"> | <img src="https://skillicons.dev/icons?i=ts" width="55"> | <img src="https://skillicons.dev/icons?i=html" width="55"> |
+| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://skillicons.dev/icons?i=typescript" width="55"> |
 
 ### Databases 💾
 | | |
@@ -81,5 +85,5 @@ Fullstack Developer with an analytical mindset. Specialized in transforming comp
     <img src="https://img.shields.io/badge/ESTABLISH_CONNECTION-black?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=35&section=footer&text=CONTINUOUS%20LEARNING%20%E2%80%A2%20SYSTEMS%20OPTIMIZATION&fontSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=35&section=footer" />
 </div>
