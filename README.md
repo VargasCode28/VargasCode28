@@ -4,11 +4,6 @@
 
 # Hi there, Welcome to my GitHub 👋
 
-**I am a Fullstack Developer** passionate about software architecture and building scalable digital solutions. My approach combines Backend technical precision with professional UI/UX standards.
-
-### 🤝 Always happy to help
-
----
 
 ## 👤 About Me
 My work focuses on transforming complex requirements into robust and efficient systems. I specialize in the JavaScript ecosystem, applying **minimalist UI/UX** standards and database optimization.
