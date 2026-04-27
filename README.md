@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=LEONARDO%20VARGAS&fontColor=007ACC&fontSize=75&desc=FULLSTACK%20ENGINEER%20|%20SYSTEMS%20ARCHITECT&descAlign=68&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=FULLSTACK%20ENGINEER&fontColor=007ACC&fontSize=70&desc=SYSTEMS%20ARCHITECT%20|%20SOFTWARE%20DEVELOPER&descAlign=68&fontAlignY=35" />
 </p>
 
 <div align="center">
@@ -24,9 +24,9 @@ Soy un apasionado por la **arquitectura de software** y la creación de solucion
 | <img src="https://skillicons.dev/icons?i=nodejs" width="55"> | <img src="https://skillicons.dev/icons?i=express" width="55"> | <img src="https://skillicons.dev/icons?i=firebase" width="55"> |
 
 ### Frameworks FrontEnd 📦
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=vue" width="55"> | <img src="https://skillicons.dev/icons?i=nuxt" width="55"> | <img src="https://skillicons.dev/icons?i=react" width="55"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="55"> |
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=vue" width="55"> | <img src="https://skillicons.dev/icons?i=nuxt" width="55"> | <img src="https://skillicons.dev/icons?i=react" width="55"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="55"> | <img src="https://skillicons.dev/icons?i=ts" width="55"> |
 
 ### Programming Languages 💻
 | |
@@ -34,9 +34,9 @@ Soy un apasionado por la **arquitectura de software** y la creación de solucion
 | <img src="https://skillicons.dev/icons?i=js" width="55"> |
 
 ### Markup & Styling 🎨
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> | <img src="https://skillicons.dev/icons?i=typescript" width="55"> |
+| | |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" width="55"> | <img src="https://skillicons.dev/icons?i=css" width="55"> |
 
 ### Databases 💾
 | | |
