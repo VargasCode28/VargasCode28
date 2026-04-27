@@ -1,31 +1,36 @@
-# Leonardo Vargas
-*Computer Engineering Student | Software Developer*
+
+# 🚀 Leonardo Vargas
+*Fullstack Developer | Computer Engineering Student*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Location-Chile-red?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Status-Building_Scalable_Apps-blue?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Languages-Spanish_%26_English-success?style=flat-square" alt="Languages">
 </p>
 
 ---
 
 ## 🛠 Tech Stack
-I focus on building efficient, user-centric applications from hardware integration to frontend interfaces.
+Apasionado por crear aplicaciones robustas, desde la arquitectura de la base de datos hasta interfaces de usuario inmersivas.
 
-**Frontend:** Vue.js, TypeScript, HTML5, CSS3  
-**Backend:** Node.js, Kotlin, Firebase  
-**Hardware/IoT:** ESP32, MicroPython, Sensor Integration  
-**Tools:** Git, VS Code, Figma
+### 💻 Development
+- **Frontend:** Vue.js, Nuxt.js, React, TypeScript, HTML5, CSS3.
+- **Backend:** Node.js + Express, WebSockets (Real-time apps).
+- **Databases:** MongoDB (Compass & Atlas), MySQL (Workbench).
+
+### ⚙️ Hardware & Tools
+- **IoT:** ESP32, MicroPython, Sensor Integration.
+- **DevOps/Tools:** Git, VS Code, Figma, Firebase.
 
 ---
 
 ## 🚀 Featured Projects
-*A selection of my recent work bridging software and physical systems.*
+*Proyectos destacados que integran sistemas físicos y soluciones digitales.*
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **VIGIA** | Visual RFID logistics and monitoring system. | Vue, Node.js |
-| **Biblioteca Galáctica** | Immersive reading app with synchronized audio. | Web, TTS Engine |
-| **IoT Sensor Data** | Cloud visualization for ESP32 hardware sensors. | ESP32, ThingSpeak |
+| **VIGIA** | Sistema visual de logística RFID y monitoreo de flujos. | Vue, Node.js, IoT |
+| **Biblioteca Galáctica** | App de lectura inmersiva con sincronización de audio. | Web, TTS Engine |
+| **IoT Cloud Sync** | Visualización en la nube para sensores de hardware ESP32. | ESP32, ThingSpeak |
 
 ---
 
@@ -37,5 +42,8 @@ I focus on building efficient, user-centric applications from hardware integrati
 
 ---
 
-📫 **Reach me:** lv9334889@gmail.com
-⚽ **Fun fact:** I play Soccer!
+## 📚 About Me
+- 🏫 **Educación:** Estudiante de 2º año en Ingeniería Civil en Computación.
+- 🌎 **Idiomas:** Español (Nativo) e Inglés (Segunda lengua).
+- 🧠 **Intereses:** Dedicado a la lectura técnica y al constante aprendizaje de nuevas tecnologías.
+- 📫 **Contacto:** lv9334889@gmail.com
