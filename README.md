@@ -1,12 +1,25 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Leonardo%20Vargas&fontSize=70&fontColor=007ACC&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&animation=fadeIn&theme=react&fontAlignY=40" />
+  
+  <br>
 
   <a href="#english-version"><img src="https://img.shields.io/badge/Switch_to-ENGLISH-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
   <a href="#spanish-version"><img src="https://img.shields.io/badge/Cambiar_a-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
 </div>
 
 <br id="spanish-version">
+
+---
+
+<div align="center">
+  <h3><b>Fullstack Developer | Software Engineering Student</b></h3>
+  <p><i>Building clean, scalable systems with a focus on user experience and robust data architecture.</i></p>
+
+  <img src="https://img.shields.io/badge/English-B2_Technical-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Scrum-black?style=flat-square&logo=scrum-alliance" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Code-white?style=flat-square" />
+</div>
 
 ---
 
@@ -45,7 +58,7 @@ Fullstack Developer with an analytical mindset. Specialized in transforming comp
 ---
 
 ## 🏗️ Engineering Principles
-- **Dual Database Management:** Diseño de esquemas **Relacionales** (MySQL) y **No Relacionales** (MongoDB).
+- **Dual Database Management:** Diseño de esquemas **Relacionales** (MySQL) y **No Relacionales** (MongoDB) según necesidad.
 - **Dockerization:** Estandarización de entornos para garantizar portabilidad.
 - **Modern UI:** Interfaces profesionales y sobrias bajo principios de jerarquía visual.
 
@@ -57,7 +70,7 @@ Fullstack Developer with an analytical mindset. Specialized in transforming comp
 | Project | Stack | Focus |
 | :--- | :--- | :--- |
 | **VIGIA** | `Node` `MySQL` `Vue` | Logistics Dashboard |
-| **Galactic Library** | `React` `NoSQL` | Immersive UX |
+| **Biblioteca Galáctica** | `React` `NoSQL` | Immersive UX |
 
 <br>
 
