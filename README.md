@@ -16,7 +16,7 @@ My work focuses on transforming complex requirements into robust and efficient s
 
 ## BackEnd Frameworks 
 
-| [<img src="https://skillicons.dev/icons?i=nodejs" width="70">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="70">](https://expressjs.com/) |
+| [<img src="https://skillicons.dev/icons?i=nodejs" width="45">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="45">](https://expressjs.com/) |
 | :---: | :---: |
 
 ## FrontEnd Frameworks 
