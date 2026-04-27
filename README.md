@@ -1,99 +1,77 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Leonardo%20Vargas&fontSize=50&animation=fadeIn" />
-</p>
 
 <div align="center">
-  <h3><b>Fullstack Developer | Software Engineering Student</b></h3>
-  <p><i>Especializado en arquitecturas escalables y experiencias de usuario de alto impacto.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Leonardo%20Vargas&fontSize=70&fontColor=007ACC&animation=fadeIn" />
 
-  <img src="https://img.shields.io/badge/English-B2_Technical-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Scrum-black?style=flat-square&logo=scrum-alliance" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-white?style=flat-square" />
+  <a href="#english-version"><img src="https://img.shields.io/badge/Switch_to-ENGLISH-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
+  <a href="#spanish-version"><img src="https://img.shields.io/badge/Cambiar_a-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
 </div>
 
----
-
-## 👤 Perfil Profesional
-Desarrollador con visión de producto, enfocado en optimizar el ciclo de vida del software mediante la implementación de **Buenas Prácticas**, **Patrones de Diseño** y una gestión ágil de proyectos.
-
-* **Enfoque:** Lectura técnica constante y abstracción de problemas complejos.
-* **Gestión:** Planificación estratégica mediante **Cartas Gantt** y marcos de trabajo **Agile/Scrum**.
-* **UI/UX:** Diseño de interfaces minimalistas bajo principios de usabilidad y jerarquía visual.
+<br id="spanish-version">
 
 ---
 
-## 🛠 Tech Stack
+## 👤 Resumen Ejecutivo (ES)
+Desarrollador Fullstack con mentalidad analítica. Especializado en transformar requerimientos complejos en interfaces intuitivas con **Bootstrap** y arquitecturas de datos sólidas (SQL/NoSQL).
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4><b>Frontend & Design</b></h4>
-      • Vue.js / Nuxt.js<br>
-      • React<br>
-      • TypeScript<br>
-      • Tailwind CSS / Sass<br>
-      • Figma (UX/UI High-Fi)
-    </td>
-    <td width="33%" valign="top">
-      <h4><b>Backend & Data</b></h4>
-      • Node.js / Express<br>
-      • WebSockets (Real-time)<br>
-      • <b>SQL Relational (MySQL)</b><br>
-      • NoSQL (MongoDB)<br>
-      • API Design / Postman
-    </td>
-    <td width="33%" valign="top">
-      <h4><b>DevOps & Ops</b></h4>
-      • Docker / Docker Compose<br>
-      • GitHub Actions (CI/CD)<br>
-      • Pipelines Automation<br>
-      • Git Ecosystem
-    </td>
-  </tr>
-</table>
+* **Estrategia:** Planificación ágil mediante **Scrum** y control de hitos con **Cartas Gantt**.
+* **Aprendizaje:** Foco en lectura técnica avanzada y adopción de nuevos paradigmas.
+
+### 🛠 Tech Stack
+| 🎨 Frontend | ⚙️ Backend | 🐳 Infrastructure |
+| :--- | :--- | :--- |
+| Vue.js / Nuxt.js | Node.js / Express | Docker / Compose |
+| React | WebSockets | GitHub Actions |
+| TypeScript | **SQL (MySQL)** | Pipeline Automation |
+| **Bootstrap** | NoSQL (MongoDB) | Git Ecosystem |
 
 ---
 
-## 🏗️ Estándares de Ingeniería
-> *"El código es para las personas, solo accidentalmente para las máquinas."*
+<br id="english-version">
 
-- **Database Strategy:** Diseño de esquemas relacionales complejos (Normalización, Indexación) y estructuras NoSQL flexibles.
-- **Scalability:** Aplicación de contenedores **Docker** para asegurar la consistencia entre entornos.
-- **Interface Design:** Prototipado en Figma enfocado en flujos de usuario eficientes y estética minimalista.
+## 👤 Executive Summary (EN)
+Fullstack Developer with an analytical mindset. Specialized in transforming complex requirements into intuitive interfaces using **Bootstrap** and robust data architectures (SQL/NoSQL).
+
+* **Strategy:** Agile planning through **Scrum** and milestone control with **Gantt Charts**.
+* **Learning:** Focused on advanced technical reading and adopting new software paradigms.
+
+### 🛠 Tech Stack
+| 🎨 Frontend | ⚙️ Backend | 🐳 Infrastructure |
+| :--- | :--- | :--- |
+| Vue.js / Nuxt.js | Node.js / Express | Docker / Compose |
+| React | WebSockets | GitHub Actions |
+| TypeScript | **SQL (MySQL)** | Pipeline Automation |
+| **Bootstrap** | NoSQL (MongoDB) | Git Ecosystem |
 
 ---
 
-## 📊 Métricas de Desarrollo
+## 🏗️ Engineering Principles
+- **Dual Database Management:** Diseño de esquemas **Relacionales** (MySQL) y **No Relacionales** (MongoDB).
+- **Dockerization:** Estandarización de entornos para garantizar portabilidad.
+- **Modern UI:** Interfaces profesionales y sobrias bajo principios de jerarquía visual.
+
+---
+
+## 🚀 Projects & Stats
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bgstatic&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=007ACC" />
-</div>
+
+| Project | Stack | Focus |
+| :--- | :--- | :--- |
+| **VIGIA** | `Node` `MySQL` `Vue` | Logistics Dashboard |
+| **Galactic Library** | `React` `NoSQL` | Immersive UX |
 
 <br>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=007ACC&text_color=ffffff&icon_color=007ACC&border_color=007ACC" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bgstatic&theme=transparent&stroke=007ACC&fire=007ACC&ring=007ACC&currStreakLabel=007ACC" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=007ACC&text_color=ffffff&icon_color=007ACC&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bgstatic&theme=transparent&stroke=007ACC&fire=007ACC&ring=007ACC&currStreakLabel=007ACC&hide_border=true" />
 </div>
-
----
-
-## 🚀 Proyectos Seleccionados
-
-| Proyecto | Core Tech | Enfoque UI/UX |
-| :--- | :--- | :--- |
-| **VIGIA** | `Node` `MySQL` `Vue` | Dashboard administrativo minimalista. |
-| **Biblioteca Galáctica** | `React` `NoSQL` | Experiencia inmersiva y accesible. |
-| **Enterprise Pipeline** | `Docker` `Actions` | Automatización de flujos productivos. |
 
 ---
 
 <div align="center">
   <p>📬 <b>lv9334889@gmail.com</b></p>
   <a href="mailto:lv9334889@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GET_IN_TOUCH-black?style=for-the-badge" />
   </a>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007ACC&height=30&section=footer" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer" />
-</p>
