@@ -1,16 +1,5 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&animation=fadeIn&theme=react&fontAlignY=40" />
-  
-  <br>
-
-  <a href="#english-version"><img src="https://img.shields.io/badge/Switch_to-ENGLISH-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-  <a href="#spanish-version"><img src="https://img.shields.io/badge/Cambiar_a-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-</div>
-
-<br id="spanish-version">
-
----
 
 <div align="center">
   <h3><b>Fullstack Developer | Software Engineering Student</b></h3>
@@ -20,6 +9,35 @@
   <img src="https://img.shields.io/badge/Methodology-Scrum-black?style=flat-square&logo=scrum-alliance" />
   <img src="https://img.shields.io/badge/Architecture-Clean_Code-white?style=flat-square" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&animation=fadeIn&theme=react&fontAlignY=40" />
+  
+  <br>
+
+  <a href="#english-version"><img src="https://img.shields.io/badge/Switch_to-ENGLISH-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
+  <a href="#spanish-version"><img src="https://img.shields.io/badge/Cambiar_a-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
+</div>
+
+
+
+
+
+
+<br id="spanish-version">
+
+---
+
 
 ---
 
