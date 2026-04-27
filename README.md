@@ -1,48 +1,49 @@
 <div align="center">
-  <a href="#english-version"><img src="https://img.shields.io/badge/Language-ENGLISH-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-  <a href="#spanish-version"><img src="https://img.shields.io/badge/Idioma-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=LEONARDO%20VARGAS&fontColor=007ACC&fontSize=70&desc=FULLSTACK%20ENGINEER%20|%20SYSTEMS%20ARCHITECT&descAlign=68" />
 </div>
 
-<br id="spanish-version">
+<br>
 
-# Hola, Bienvenido a mi GitHub 👋
+# Hi there, Welcome to my GitHub 👋
 
-**Soy un desarrollador Fullstack** apasionado por la arquitectura de software y la creación de soluciones digitales escalables. Mi enfoque combina la precisión técnica del Backend con interfaces de usuario profesionales.
+**I am a Fullstack Developer** passionate about software architecture and building scalable digital solutions. My approach combines Backend technical precision with professional UI/UX standards.
 
-### 🤝 Siempre dispuesto a ayudar
+### 🤝 Always happy to help
 
 ---
 
-## 👤 Sobre Mí (ES)
-Mi trabajo se centra en transformar requerimientos complejos en sistemas robustos y eficientes. Me especializo en el ecosistema de JavaScript, aplicando estándares de **UI/UX minimalista** y optimización de bases de datos.
+## 👤 About Me
+My work focuses on transforming complex requirements into robust and efficient systems. I specialize in the JavaScript ecosystem, applying **minimalist UI/UX** standards and database optimization.
 
-📬 **Contacto:** [lv9334889@gmail.com](mailto:lv9334889@gmail.com)
+📬 **Reach me at:** [lv9334889@gmail.com](mailto:lv9334889@gmail.com)
+
+---
 
 # Skills
 
-## Frameworks BackEnd 📦
+## BackEnd Frameworks 📦
 
 | [<img src="https://skillicons.dev/icons?i=nodejs" width="70">](https://nodejs.org/) | [<img src="https://skillicons.dev/icons?i=express" width="70">](https://expressjs.com/) |
 | :---: | :---: |
 
-## Frameworks FrontEnd 📦
+## FrontEnd Frameworks 📦
 
-| [<img src="https://skillicons.dev/icons?i=vue" width="50">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="50">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="50">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="50">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="50">](https://www.typescriptlang.org/) |
+| [<img src="https://skillicons.dev/icons?i=vue" width="55">](https://vuejs.org/) | [<img src="https://skillicons.dev/icons?i=nuxt" width="55">](https://nuxtjs.org/) | [<img src="https://skillicons.dev/icons?i=react" width="55">](https://reactjs.org/) | [<img src="https://skillicons.dev/icons?i=bootstrap" width="55">](https://getbootstrap.com/) | [<img src="https://skillicons.dev/icons?i=ts" width="55">](https://www.typescriptlang.org/) |
 | :---: | :---: | :---: | :---: | :---: |
 
 ## Programming Languages 💻
 
-| [<img src="https://skillicons.dev/icons?i=js" width="60">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| [<img src="https://skillicons.dev/icons?i=js" width="65">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 | :---: |
 
 ## Markup & Styling 🎨
 
-| [<img src="https://skillicons.dev/icons?i=html" width="50">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://skillicons.dev/icons?i=css" width="50">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| [<img src="https://skillicons.dev/icons?i=html" width="55">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://skillicons.dev/icons?i=css" width="55">](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | :---: | :---: |
 
 ## Databases 💾
 
-| [<img src="https://skillicons.dev/icons?i=mysql" width="60">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="60">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="60">](https://firebase.google.com/) |
+| [<img src="https://skillicons.dev/icons?i=mysql" width="65">](https://www.mysql.com/) | [<img src="https://skillicons.dev/icons?i=mongodb" width="65">](https://www.mongodb.com/) | [<img src="https://skillicons.dev/icons?i=firebase" width="65">](https://firebase.google.com/) |
 | :---: | :---: | :---: |
 
 ## Tools & Infrastructure 🛠️
@@ -50,27 +51,20 @@ Mi trabajo se centra en transformar requerimientos complejos en sistemas robusto
 | [<img src="https://skillicons.dev/icons?i=git" width="45">](https://git-scm.com/) | [<img src="https://skillicons.dev/icons?i=docker" width="45">](https://www.docker.com/) | [<img src="https://skillicons.dev/icons?i=githubactions" width="45">](https://github.com/features/actions) | [<img src="https://skillicons.dev/icons?i=figma" width="45">](https://www.figma.com/) | [<img src="https://skillicons.dev/icons?i=postman" width="45">](https://www.postman.com/) |
 | :---: | :---: | :---: | :---: | :---: |
 
+---
+
 # Facts
 
-- 🔭 **Actualmente:** Desarrollando sistemas de gestión con arquitecturas relacionales complejas.
-- 🌱 **Aprendiendo:** Optimizando despliegues con Docker y flujos de CI/CD.
-- 👯 **Colaboración:** Disponible para proyectos de código abierto.
-- ⚡ **Dato curioso:** Me enfoco en la lectura técnica constante para mejorar la calidad de mi código.
+- 🔭 **Currently:** Developing management systems with complex relational architectures.
+- 🌱 **Learning:** Optimizing deployments with Docker and CI/CD workflows.
+- 👯 **Collaborating:** Available for interesting open-source projects.
+- ⚡ **Fun Fact:** I focus on constant technical reading to enhance code quality and best practices.
 
 ---
 
-<br id="english-version">
-
-# Hi there, Welcome to my Github 👋
-
-**I am a Fullstack Developer** passionate about software architecture and building scalable digital solutions. My approach combines Backend technical precision with professional UI/UX standards.
-
-### 🤝 Always happy to help
-
-## 👤 About Me (EN)
-Fullstack Developer with an analytical mindset. Specialized in transforming complex requirements into intuitive interfaces and robust data architectures.
-
----
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=007ACC&text_color=ffffff&icon_color=007ACC&hide_border=true" />
+</div>
 
 <div align="center">
   <br>
