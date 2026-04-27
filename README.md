@@ -1,27 +1,6 @@
 
 <div align="center">
-
-<div align="center">
-  <h3><b>Fullstack Developer | Software Engineering Student</b></h3>
-  <p><i>Building clean, scalable systems with a focus on user experience and robust data architecture.</i></p>
-
-  <img src="https://img.shields.io/badge/English-B2_Technical-007ACC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Methodology-Scrum-black?style=flat-square&logo=scrum-alliance" />
-  <img src="https://img.shields.io/badge/Architecture-Clean_Code-white?style=flat-square" />
-</div>
-
-
-
-
-
-
-
-
-
-
-
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&animation=fadeIn&theme=react&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=LEONARDO%20VARGAS&fontColor=007ACC&fontSize=65&desc=FULLSTACK%20DEVELOPER%20|%20SOFTWARE%20ENGINEER&descAlign=65&animation=fadeIn&fontAlignY=35&fontAlign=50" />
   
   <br>
 
@@ -29,20 +8,23 @@
   <a href="#spanish-version"><img src="https://img.shields.io/badge/Cambiar_a-ESPAÑOL-black?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
 </div>
 
-
-
-
-
-
 <br id="spanish-version">
 
 ---
 
+<div align="center">
+  <h3><b>Digital Systems Architect | Computer Engineering Student</b></h3>
+  <p><i>Building clean, scalable systems with a focus on user experience and robust data architecture.</i></p>
+
+  <img src="https://img.shields.io/badge/English-B2_Technical-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Methodology-Scrum-black?style=flat-square&logo=scrum-alliance" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_Code-white?style=flat-square" />
+</div>
 
 ---
 
 ## 👤 Resumen Ejecutivo (ES)
-Desarrollador Fullstack con mentalidad analítica. Especializado en transformar requerimientos complejos en interfaces intuitivas con **Bootstrap** y arquitecturas de datos sólidas (SQL/NoSQL).
+Desarrollador Fullstack con mentalidad analítica. Especializado en transformar requerimientos complejos en interfaces intuitivas con **Bootstrap** y arquitecturas de datos sólidas (**MySQL/MongoDB**).
 
 * **Estrategia:** Planificación ágil mediante **Scrum** y control de hitos con **Cartas Gantt**.
 * **Aprendizaje:** Foco en lectura técnica avanzada y adopción de nuevos paradigmas.
@@ -52,7 +34,7 @@ Desarrollador Fullstack con mentalidad analítica. Especializado en transformar 
 | :--- | :--- | :--- |
 | Vue.js / Nuxt.js | Node.js / Express | Docker / Compose |
 | React | WebSockets | GitHub Actions |
-| TypeScript | **SQL (MySQL)** | Pipeline Automation |
+| TypeScript | **SQL Relational** | Pipeline Automation |
 | **Bootstrap** | NoSQL (MongoDB) | Git Ecosystem |
 
 ---
@@ -60,7 +42,7 @@ Desarrollador Fullstack con mentalidad analítica. Especializado en transformar 
 <br id="english-version">
 
 ## 👤 Executive Summary (EN)
-Fullstack Developer with an analytical mindset. Specialized in transforming complex requirements into intuitive interfaces using **Bootstrap** and robust data architectures (SQL/NoSQL).
+Fullstack Developer with an analytical mindset. Specialized in transforming complex requirements into intuitive interfaces using **Bootstrap** and robust data architectures (**MySQL/MongoDB**).
 
 * **Strategy:** Agile planning through **Scrum** and milestone control with **Gantt Charts**.
 * **Learning:** Focused on advanced technical reading and adopting new software paradigms.
@@ -70,15 +52,15 @@ Fullstack Developer with an analytical mindset. Specialized in transforming comp
 | :--- | :--- | :--- |
 | Vue.js / Nuxt.js | Node.js / Express | Docker / Compose |
 | React | WebSockets | GitHub Actions |
-| TypeScript | **SQL (MySQL)** | Pipeline Automation |
+| TypeScript | **SQL Relational** | Pipeline Automation |
 | **Bootstrap** | NoSQL (MongoDB) | Git Ecosystem |
 
 ---
 
 ## 🏗️ Engineering Principles
-- **Dual Database Management:** Diseño de esquemas **Relacionales** (MySQL) y **No Relacionales** (MongoDB) según necesidad.
-- **Dockerization:** Estandarización de entornos para garantizar portabilidad.
-- **Modern UI:** Interfaces profesionales y sobrias bajo principios de jerarquía visual.
+- **Dual Database Management:** Diseño estratégico de esquemas **Relacionales Complejos** y estructuras **No Relacionales** según necesidad.
+- **Dockerization:** Estandarización de entornos para garantizar consistencia y portabilidad.
+- **Interfaces Profesionales:** Uso de **Bootstrap** y jerarquía visual para maximizar la usabilidad.
 
 ---
 
